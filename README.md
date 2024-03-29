@@ -10,24 +10,24 @@
   
 ##
 <div>
-<a href="https://github.com/ClaraRibeiro09/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ClaraRibeiro09&show_icons=true&theme=dracula"/>
-  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraRibeiro09&layout=compact&langs_count=16&theme=dracula"/>
+<a href="https://github.com/AnaBeatrizCarvalhoMenezes/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AnaBeatrizCarvalhoMenezes&show_icons=true&theme=dracula"/>
+  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizCarvalhoMenezes&layout=compact&langs_count=16&theme=dracula"/>
 </a>
   
 <div/>
 
 ## 
-  <img align="center" alt="Clara-Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Clara-HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Clara-CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align= "center" alt="Clara-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Ana-Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Ana-HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Ana-CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align= "center" alt="Ana-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   
 
 ## 
 
-  <a target="_blank" href="mailto:mariaclara141207@gmail.com"> <img height="30" width="120" alt="Email-Gustav" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-        badge&logo=gmail&logoColor=white"/></a>
-  <a target="_blank" href="https://www.instagram.com/clarinharibeirosz/"> <img height="30" width="120" alt="Instagram-Gustavo" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
+  <a target="_blank" href="mailto:ana.menezes62@aluno.ifce.edu.br"> <img height="30" width="120" alt="Email-Gustav" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-        badge&logo=gmail&logoColor=white"/></a>
+  <a target="_blank" href="https://www.instagram.com/ana_lua_beatriz/"> <img height="30" width="120" alt="Instagram-Gustavo" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
   
 
 ## 
