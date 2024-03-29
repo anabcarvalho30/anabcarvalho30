@@ -26,8 +26,8 @@
 
 ## 
 
-  <a target="_blank" href="mailto:ana.menezes62@aluno.ifce.edu.br"> <img height="30" width="120" alt="Email-Gustav" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-        badge&logo=gmail&logoColor=white"/></a>
-  <a target="_blank" href="https://www.instagram.com/ana_lua_beatriz/"> <img height="30" width="120" alt="Instagram-Gustavo" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
+  <a target="_blank" href="mailto:ana.menezes62@aluno.ifce.edu.br"> <img height="30" width="120" alt="Email-AnaBeatrizCarvalhoMenezes" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-        badge&logo=gmail&logoColor=white"/></a>
+  <a target="_blank" href="https://www.instagram.com/ana_lua_beatriz/"> <img height="30" width="120" alt="Instagram-AnaBeatrizCarvalhoMenezes" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
   
 
 ## 
