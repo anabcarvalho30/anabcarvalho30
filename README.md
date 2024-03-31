@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=header"/>
 
-## Olá, eu sou a Ana Beatriz!
+## Hello, I'm Ana Beatriz!
 
-- 📚 Brasilian student - IFCE Brasil
+- 📚 Brasilian student - IFCE Brazil
 - 🌱 Currently working and learning Java and a little bit AI
 - 🎨 Designer and front-end developer
 - 🔴 Huawei Academy ICT - IFCE
