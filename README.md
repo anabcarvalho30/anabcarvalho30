@@ -23,6 +23,7 @@
 <a href="https://github.com/AnaBeatrizCarvalhoMenezes/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AnaBeatrizCarvalhoMenezes&show_icons=true&theme=dracula"/>
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizCarvalhoMenezes&layout=compact&langs_count=16&theme=dracula"/>
+  <img width=60% align="center"  src="https://streak-stats.demolab.com?user=AnaBeatrizCarvalhoMenezes&theme=tokyonight&hide_border=true" />
 </a>
   
 <div/>
