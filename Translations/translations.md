@@ -1,3 +1,8 @@
+|               | Link de tradução |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 # Translations
 
 |                                                                                                                                                                                                                                                                             | Translated Link                                                       |
