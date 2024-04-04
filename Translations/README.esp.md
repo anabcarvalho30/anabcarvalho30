@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56008c&size=40&center=true&vCenter=true&width=1000&lines=xvHola,+bienvenido!;Este+es+un+lugar+para+compartir,;mis+repositorios+e+ideas;Mi+nombre+es+Ana+Beatriz;Pero+puedes+llamarme+Bea;Yo+¡tengo+17+años;y+tendré+18+en+julio!;soy+brasileña;y+estudio+Técnico+en+Informatica+en+IFCE!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56008c&size=40&center=true&vCenter=true&width=1000&lines=Hola,+bienvenido!;Este+es+un+lugar+para+compartir,;mis+repositorios+e+ideas;Mi+nombre+es+Ana+Beatriz;Pero+puedes+llamarme+Bea;Yo+¡tengo+17+años;y+tendré+18+en+julio!;soy+brasileña;y+estudio+Técnico+en+Informatica+en+IFCE!)](https://git.io/typing-svg)
 
 ## ¡Hola! ¡Soy Ana Beatriz!
 
