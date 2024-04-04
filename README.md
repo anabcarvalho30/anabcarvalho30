@@ -54,3 +54,5 @@
 #### _Read this in [other languages](Translations/translations.md)._
 <kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](Translations/README.pt_br.md)</kbd>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=footer"/>
+
