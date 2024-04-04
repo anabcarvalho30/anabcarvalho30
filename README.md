@@ -6,16 +6,17 @@
 
 <br/>
 
-<img align="right" height="520m" src="https://raw.githubusercontent.com/gist/AnaBeatrizCarvalhoMenezes/1f50678ad709be49a8a875a09fce6a10/raw/0f79303d7c9a81c1f9e30ba5bc37a3360fe6a65c/GitHubCardBlue.svg"/>
+- 📚 Brasilian student - IFCE Brazil
+  
+- 🌱 Currently working and learning Java
+
+- 🎨 Designer and front-end developer with HTML, CSS and JavaScript
+
+- 🔴 Huawei Academy ICT - IFCE
+
+- 🗯️ Some dreams come true, be **hopeful**
 
 <br/>
-
-
-- 📚 Brasilian student - IFCE Brazil
-- 🌱 Currently working and learning Java
-- 🎨 Designer and front-end developer with HTML, CSS and JavaScript
-- 🔴 Huawei Academy ICT - IFCE
-- 🗯️ Some dreams come true, be hopeful
   
 ##
 <div>
