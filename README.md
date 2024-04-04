@@ -49,3 +49,8 @@
 
 </div><br>
 
+##
+
+#### _Read this in [other languages](Translations/translations.md)._
+<kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](Translations/README.pt_br.md)</kbd>
+
