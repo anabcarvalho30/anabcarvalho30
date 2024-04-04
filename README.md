@@ -52,6 +52,6 @@
 ##
 
 #### _Read this in [other languages](Translations/translations.md)._
-<kbd>[<img title="Português" alt="Português" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png" width="60">](Translation/README.pt_br.md)</kbd>
+<kbd>[<img title="Português" alt="Português" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png" width="60">](Translations/README.pt_br.md)</kbd>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=footer"/>
