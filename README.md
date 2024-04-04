@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8b0000size=40&center=true&vCenter=true&width=1000&lines=A+long+time+ago...;In+a+🌌+galaxy+far,+far+away…;Hello+there;My+name+is+Enzo+Gabriel;I'm+16+years+old;I'm+from+Brazil;IT+at+IFCE;Be+Welcome!+:%29;May+the+force+💪+be+with+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56070csize=40&center=true&vCenter=true&width=1000&lines=A+long+time+ago...;In+a+🌌+galaxy+far,+far+away…;Hello+there;My+name+is+Enzo+Gabriel;I'm+16+years+old;I'm+from+Brazil;IT+at+IFCE;Be+Welcome!+:%29;May+the+force+💪+be+with+you)](https://git.io/typing-svg)
 
 ## Hello, I'm Ana Beatriz!
 
