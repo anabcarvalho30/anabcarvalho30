@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56008c&size=40&center=true&vCenter=true&width=1000&lines=Hello,+your+welcome+to+my+profile+page!;That's+a+place;to+share+my+repositories+and+ideas!;My+name+is+Ana+Beatriz;But+you+can+call+me+Bea;I'm+17+years+old;and+I'm+going+to+turn+18+in+july!;I'm+from+Brazil;and+study+IT+at+IFCE!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c8b7c6&size=40&center=true&vCenter=true&width=1000&lines=Hello,+your+welcome+to+my+profile+page!;That's+a+place;to+share+my+repositories+and+ideas!;My+name+is+Ana+Beatriz;But+you+can+call+me+Bea;I'm+17+years+old;and+I'm+going+to+turn+18+in+july!;I'm+from+Brazil;and+study+IT+at+IFCE!)](https://git.io/typing-svg)
 
 ## Hello, I'm Ana Beatriz!
 
@@ -17,6 +17,8 @@
 - 🗯️ Some dreams come true, be **hopeful**
 
 <br/>
+
+[![AnaBeatriz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnaBeatrizCarvalhoMenezes&bg_color=0D1017&color=c8b7c6&line=808080&point=e5dcdc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # <img width=5% align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />       GitHub Analytics:
 <div align="center">  
