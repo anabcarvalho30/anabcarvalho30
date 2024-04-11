@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56008c&size=40&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo!;Este+é+um+lugar+para+compartilhar,;meus+repositórios+e+ideias;Meu+nome+é+Ana+Beatrizz;Mas+pode+me+chamar+de+Bea;Eu+tenho+17+anos;e+farei+18+em+julho!;Sou+brasileira;e+estudo+técnino+em+Info+no+IFCE!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c8b7c6&size=40&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo!;Este+é+um+lugar+para+compartilhar,;meus+repositórios+e+ideias;Meu+nome+é+Ana+Beatrizz;Mas+pode+me+chamar+de+Bea;Eu+tenho+17+anos;e+farei+18+em+julho!;Sou+brasileira;e+estudo+técnino+em+Info+no+IFCE!)](https://git.io/typing-svg)
 
 ## Olá! Sou Ana Beatriz!
 
@@ -17,6 +17,8 @@
 - 🗯️ Alguns sonhos se tornam realidade, **tenha esperança**
 
 <br/>
+
+[![AnaBeatriz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnaBeatrizCarvalhoMenezes&bg_color=0D1017&color=c8b7c6&line=808080&point=e5dcdc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # <img width=5% align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />       GitHub Analytics:
 <div align="center">  
