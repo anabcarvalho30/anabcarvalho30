@@ -6,19 +6,18 @@
 
 <br/>
 
-- 📚 Brasilian student - IFCE Brazil
+- 📚 Brazilian student - IFCE Fortaleza, at Brasil
   
 - 🌱 Currently working and learning Java
 
 - 🎨 Designer and front-end developer with HTML, CSS and JavaScript
 
-- 🔴 Huawei Academy ICT - IFCE
+- 🔴 Huawei Academy ICT - IFCE Fortaleza
 
 - 🗯️ Some dreams come true, be **hopeful**
 
 <br/>
 
-[![AnaBeatriz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnaBeatrizCarvalhoMenezes&bg_color=0D1017&color=c8b7c6&line=808080&point=e5dcdc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # <img width=5% align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />       GitHub Analytics:
 <div align="center">  
