@@ -38,7 +38,11 @@
 ## Editing apps
   <img align= "center" alt="AnaBeatrizCarvalhoMenezes-JS" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" />
   <img align= "center" alt="AnaBeatrizCarvalhoMenezes-JS" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
-  
+
+## Development Platforms
+<img align= "center" alt="AnaBeatrizCarvalhoMenezes-JS" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" />
+<img align= "center" alt="AnaBeatrizCarvalhoMenezes-JS" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+
 ## 
 
   <a target="_blank" href="mailto:ana.menezes62@aluno.ifce.edu.br"> <img height="30" width="120" alt="Email-AnaBeatrizCarvalhoMenezes" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-        badge&logo=gmail&logoColor=white"/></a>
