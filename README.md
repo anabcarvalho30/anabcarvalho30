@@ -29,7 +29,7 @@
   
 <div/>
 
-## Development applications
+## Programming languages
   <img align="center" alt="AnaBeatrizCarvalhoMenezes-Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="AnaBeatrizCarvalhoMenezes-HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="AnaBeatrizCarvalhoMenezes-CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
