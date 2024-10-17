@@ -21,23 +21,23 @@
 
 # <img width=5% align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />       GitHub Analytics:
 <div align="center">  
-<a href="https://github.com/AnaBeatrizCarvalhoMenezes/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AnaBeatrizCarvalhoMenezes&show_icons=true&theme=dracula&hide_border=true"/>
-  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizCarvalhoMenezes&layout=compact&langs_count=16&theme=dracula&hide_border=true"/>
-  <img width=60% align="center"  src="https://streak-stats.demolab.com?user=AnaBeatrizCarvalhoMenezes&theme=dracula&hide_border=true" />
+<a href="https://github.com/anabcarvalho30/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anabcarvalho30&show_icons=true&theme=dracula&hide_border=true"/>
+  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabcarvalho30&layout=compact&langs_count=16&theme=dracula&hide_border=true"/>
+  <img width=60% align="center"  src="https://streak-stats.demolab.com?user=anabcarvalho30&theme=dracula&hide_border=true" />
 </a>
   
 <div/>
 
 ## Programming languages
-  <img align="center" alt="AnaBeatrizCarvalhoMenezes-Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="AnaBeatrizCarvalhoMenezes-HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="AnaBeatrizCarvalhoMenezes-CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align= "center" alt="AnaBeatrizCarvalhoMenezes-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="anabcarvalho30-Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="anabcarvalho30-HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="anabcarvalho30-CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align= "center" alt="anabcarvalho30-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 ## Editing apps
-  <img align= "center" alt="AnaBeatrizCarvalhoMenezes-JS" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" />
-  <img align= "center" alt="AnaBeatrizCarvalhoMenezes-JS" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+  <img align= "center" alt="anabcarvalho30-JS" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" />
+  <img align= "center" alt="anabcarvalho30-JS" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
 
 ## 
 
