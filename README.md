@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=header"/>
-## Hello, I'm Ana Beatriz!
 
-<br/>
+## Hello, I'm Ana Beatriz!
 
 - 📚 Brazilian student - IFCE Fortaleza, at Brasil
 
