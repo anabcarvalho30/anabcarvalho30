@@ -1,9 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=header"/>
-
 ## Hello, I'm Ana Beatriz!
-
 <br/>
-
 - 📚 Brazilian student - IFCE Fortaleza, at Brasil
 
 - 💻 Integrated Technical Course in Informatics - Fifth semester
