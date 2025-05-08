@@ -40,10 +40,6 @@
 
 ## 
 
-  <a href="mailto:ana.menezes62@aluno.ifce.edu.br" target="_blank">
-  <img src="https://avatars.githubusercontent.com/anabcarvalho30" width="40" style="border-radius: 50%;" />
-  <span style="margin-left: 8px; vertical-align: middle;">Contate via e-mail</span>
-</a>
   <a target="_blank" href="https://www.instagram.com/ana_lua_beatriz/"> <img height="30" width="120" alt="Instagram-AnaBeatrizCarvalhoMenezes" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
   
 ## 
