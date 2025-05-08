@@ -35,7 +35,6 @@
   <img align= "center" alt="anabcarvalho30-Godot" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
 
 ## Editing apps
-  <img align= "center" alt="anabcarvalho30-Canva" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" />
   <img align= "center" alt="anabcarvalho30-Figma" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
 
 ## 
