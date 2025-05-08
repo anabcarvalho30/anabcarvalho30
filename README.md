@@ -21,7 +21,6 @@
 <a href="https://github.com/anabcarvalho30/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anabcarvalho30&show_icons=true&theme=dracula&hide_border=true"/>
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabcarvalho30&layout=compact&langs_count=16&theme=dracula&hide_border=true"/>
-  <img width=60% align="center"  src="https://streak-stats.demolab.com?user=anabcarvalho30&theme=dracula&hide_border=true" />
 </a>
   
 <div/>
@@ -41,7 +40,10 @@
 
 ## 
 
-  <a target="_blank" href="mailto:ana.menezes62@aluno.ifce.edu.br"> <img height="30" width="120" alt="Email-AnaBeatrizCarvalhoMenezes" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-        badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ana.menezes62@aluno.ifce.edu.br" target="_blank">
+  <img src="https://avatars.githubusercontent.com/anabcarvalho30" width="40" style="border-radius: 50%;" />
+  <span style="margin-left: 8px; vertical-align: middle;">Contate via e-mail</span>
+</a>
   <a target="_blank" href="https://www.instagram.com/ana_lua_beatriz/"> <img height="30" width="120" alt="Instagram-AnaBeatrizCarvalhoMenezes" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
   
 ## 
