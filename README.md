@@ -1,23 +1,22 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c8b7c6&size=40&center=true&vCenter=true&width=1000&lines=Hello,+your+welcome+to+my+profile+page!;That's+a+place;to+share+my+repositories+and+ideas!;My+name+is+Ana+Beatriz;But+you+can+call+me+Bea;I'm+17+years+old;and+I'm+going+to+turn+18+in+july!;I'm+from+Brazil;and+study+IT+at+IFCE!)](https://git.io/typing-svg)
-
 ## Hello, I'm Ana Beatriz!
 
 <br/>
 
 - 📚 Brazilian student - IFCE Fortaleza, at Brasil
+
+- 💻 Integrated Technical Course in Informatics - Fifth semester
   
-- 🌱 Currently working and learning Java
+- 🌱 Currently learning godot
+  
+- 🎨 Designer and front-end developer with HTML, CSS, JavaScript with BootStrap framework
 
-- 🎨 Designer and front-end developer with HTML, CSS and JavaScript
-
-- 🔴 Huawei Academy ICT - IFCE Fortaleza
+- ✏️ Developing high-fidelity models with figma
 
 - 🗯️ Some dreams come true, be **hopeful**
 
 <br/>
-
 
 # <img width=5% align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />       GitHub Analytics:
 <div align="center">  
@@ -35,9 +34,12 @@
   <img align="center" alt="anabcarvalho30-CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align= "center" alt="anabcarvalho30-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
+## Game Engine
+  <img align= "center" alt="anabcarvalho30-Godot" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+
 ## Editing apps
-  <img align= "center" alt="anabcarvalho30-JS" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" />
-  <img align= "center" alt="anabcarvalho30-JS" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+  <img align= "center" alt="anabcarvalho30-Canva" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" />
+  <img align= "center" alt="anabcarvalho30-Figma" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
 
 ## 
 
