@@ -1,18 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=header"/>
 
-## Hello, I'm Ana Beatriz!
+## Hello! I'm Ana Beatriz!
 
-- 📚 Brazilian student - IFCE Fortaleza, at Brasil
+My name is Ana Beatriz, I'm 19 years old, and I live in Fortaleza-CE, Brazil. I have a degree as an IT Technician (2025) from the Federal Institute of Ceará - IFCE.
 
-- 💻 Integrated Technical Course in Informatics - Fifth semester
-  
-- 🌱 Currently learning godot
-  
-- 🎨 Designer and front-end developer with HTML, CSS, JavaScript with BootStrap framework
+- 🌱 Currently waiting for the SISU results
 
-- ✏️ Developing high-fidelity models with figma
+- 🎨 Designer and front-end developer with React, JavaScript, and CSS
 
-- 🗯️ Some dreams come true, be **hopeful**
+- ✏️ Developer of high-fidelity prototypes with Figma
+
+- 📚 One of my favorite hobbies is reading, and I am passionate about Brazilian cinema
+
+- 🗯️ Some dreams come true, **be hopeful**
+
+In my free time, I develop a game called Tiny Whispers, simultaneously learning to use the Game Engine 'GameMaker Studio' and to illustrate and animate characters and environments in pixel art. I am part of the developers' group **BadCat Games**, which recently released the game The Campus on Roblox!
 
 <br/>
 
@@ -25,24 +27,23 @@
   
 <div/>
 
-## Programming languages
+## Linguages de Programação
   <img align="center" alt="anabcarvalho30-Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="anabcarvalho30-HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="anabcarvalho30-React" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="anabcarvalho30-CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align= "center" alt="anabcarvalho30-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 ## Game Engine
-  <img align= "center" alt="anabcarvalho30-Godot" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+  <img align="center" alt="anabcarvalho30-React" height="45" width="55" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gamemaker.svg" />
 
-## Editing apps
-  <img align= "center" alt="anabcarvalho30-Figma" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
-
+## Programas de Edição
+   <img align= "center" alt="anabcarvalho30-Figma" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+   
 ## 
 
   <a target="_blank" href="https://www.instagram.com/ana_lua_beatriz/"> <img height="30" width="120" alt="Instagram-AnaBeatrizCarvalhoMenezes" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
   
 ## 
-![eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=roxo)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=14354C)&nbsp;
 
