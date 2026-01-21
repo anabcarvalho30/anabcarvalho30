@@ -35,7 +35,7 @@ Participo do grupo de desenvolvedores **BadCat Games**, que publicou recentement
   <img align= "center" alt="anabcarvalho30-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 ## Game Engine
-  <img align="center" alt="anabcarvalho30-React" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="anabcarvalho30-React" height="45" width="55" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gamemaker.svg" />
 
 ## Programas de Edição
    <img align= "center" alt="anabcarvalho30-Figma" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
