@@ -2,17 +2,20 @@
 
 ## Olá! Sou Ana Beatriz!
 
-- 📚 Estudante brasileira - IFCE Brasil
-  
-- 💻 Curso Técnico Integrado em Informática - Quinto Semestre
+Me chamo Ana Beatriz, tenho 19 anos e moro em Fortaleza-CE-Brasil. Sou formada em Técnico Integrado em Informática (2025) pelo Instituto Federal do Ceará - IFCE. 
 
-- 🌱 Atualmente estudando Godot
+- 🌱 Atualmente aguardando o resultado do SISU
 
-- 🎨 Designer e desenvolvedora front-end com HTML, CSS e JavaScript
+- 🎨 Designer e desenvolvedora front-end com React, JavaScript e CSS
 
 - ✏️ Desenvolvedora de protótipos de alta fidelidade com Figma
 
+- 📚 Um dos meus hobbies favoritos é a leitura e sou apaixonada pelo cinema brasileiro
+
 - 🗯️ Alguns sonhos se tornam realidade, **tenha esperança**
+
+Em meu tempo livre, desenvolvo um jogo chamado Tiny Whispers, aprendendo simultâneamente a utilizar a Game Engine 'GameMaker Studio' e a ilustrar e animar personagens e cenários em pixelart.
+Participo do grupo de desenvolvedores **BadCat Games**, que publicou recentemente o jogo The Campus no Roblox!
 
 <br/>
 
@@ -27,22 +30,21 @@
 
 ## Linguages de Programação
   <img align="center" alt="anabcarvalho30-Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="anabcarvalho30-HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="anabcarvalho30-React" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="anabcarvalho30-CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align= "center" alt="anabcarvalho30-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 ## Game Engine
-  <img align= "center" alt="anabcarvalho30-Godot" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+  <img align="center" alt="anabcarvalho30-React" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 ## Programas de Edição
    <img align= "center" alt="anabcarvalho30-Figma" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
-
+   
 ## 
 
   <a target="_blank" href="https://www.instagram.com/ana_lua_beatriz/"> <img height="30" width="120" alt="Instagram-AnaBeatrizCarvalhoMenezes" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
   
 ## 
-![eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=roxo)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=14354C)&nbsp;
 
