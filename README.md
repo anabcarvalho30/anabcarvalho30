@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=header"/>
-
 ## Hello! I'm Ana Beatriz!
 
 My name is Ana Beatriz, I'm 19 years old, and I live in Fortaleza-CE, Brazil. I have a degree as an IT Technician (2025) from the Federal Institute of Ceará - IFCE.
