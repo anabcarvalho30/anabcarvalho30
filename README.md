@@ -27,7 +27,7 @@ In my free time, I develop a game called Tiny Whispers, simultaneously learning 
   
 <div/>
 
-## Linguages de Programação
+## Programming Languages
   <img align="center" alt="anabcarvalho30-Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="anabcarvalho30-React" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="anabcarvalho30-CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -36,7 +36,7 @@ In my free time, I develop a game called Tiny Whispers, simultaneously learning 
 ## Game Engine
   <img align="center" alt="anabcarvalho30-React" height="45" width="55" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gamemaker.svg" />
 
-## Programas de Edição
+## Editing Programs
    <img align= "center" alt="anabcarvalho30-Figma" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
    
 ## 
