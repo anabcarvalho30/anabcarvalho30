@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=header"/>
 
-## Olá! Essa é minha conta pessoal com alguns projetos e hobbies
+## Olá! Essa é minha conta pessoal com alguns projetos e hobbies!
 
 <br/>
 
